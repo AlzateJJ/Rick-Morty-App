@@ -51,3 +51,7 @@ button {
     padding: 1rem;
     text-align: center;
 }
+
+.body {
+    background-color: #073128;
+}

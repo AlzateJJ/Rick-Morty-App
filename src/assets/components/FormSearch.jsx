@@ -16,7 +16,7 @@ const FormSearch = ( {valorInputSetter} ) => {
 
     return (
         <form className="form" onSubmit = {handleSubmit}>
-            <input className="form__input" ref={valorInput} type="text" />
+            <input placeholder="type a number between 1 - 126" className="form__input" ref={valorInput} type="text" />
             <button className="form__btn">Submit</button>
         </form>
     )

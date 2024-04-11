@@ -11,13 +11,14 @@
         border-radius: 0.5em 0 0 0.5em;
         border: none;
         font-size: inherit;
+        width: 13em;
     }
 
     .form__btn {
         display: block;
         padding: 0.4em 0.7em;
         border: none;
-        width: 8em;
+        width: 6em;
         border-radius: 0 0.5em 0.5em 0;
         background-color: green;
         color: white;
